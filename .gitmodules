@@ -1,0 +1,6 @@
+[submodule "42-Warsaw-Piscine"]
+	path = 42-Warsaw-Piscine
+	url = https://github.com/Codelingual37/42-Warsaw-Piscine.git
+[submodule "42-Core"]
+	path = 42-Core
+	url = https://github.com/Codelingual37/42-Core.git
